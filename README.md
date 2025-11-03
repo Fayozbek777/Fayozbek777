@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Fayozbek
 
-<!--
-**Fayozbek777/Fayozbek777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying at MegaSchool
 
-Here are some ideas to get you started:
+📱 Learning React Native and improving my Frontend skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Love creating modern, responsive, and user-friendly websites
+
+🚀 Passionate about clean code, beautiful UI/UX, and web performance
+
+💬 Ask me about Frontend Development, React, or JavaScript
+
+📧 Reach me at: fayozbekbaxromov9@gmail.com
