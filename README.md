@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/output/snake.svg" alt="Snake animation" />
+ 
 
 ###
