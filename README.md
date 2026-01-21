@@ -45,6 +45,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fayozbek777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+📞 Contact
+Email: fayozbekbaxromov9@gmail.com
+Phone: +998 95 671 66 61
+GitHub: You’re already here 
+
+
+✨ Thank you for visiting my profile!
+💬 Always open to collaboration, freelance, or full-time opportunities.
+
 ###
 
  
