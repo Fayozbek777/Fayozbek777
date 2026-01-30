@@ -38,15 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fayozbek777&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fayozbek777&layout=compact&theme=dracula&hide_border=true" height="160"/>
-</div>
-
----
-
 ### 📞 Contact Me
 
 - 📧 **Email:** fayozbekbaxromov9@gmail.com  
