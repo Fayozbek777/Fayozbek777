@@ -27,8 +27,8 @@
 
 ```yaml
 name:       Fayozbek Baxromov
-role:       Frontend Developer
-institute:  MegaSchool
+role:       Junior Frontend Developer
+institute:  MegaSchool § Ilmhub
 location:   Uzbekistan 🇺🇿
 
 focus:
