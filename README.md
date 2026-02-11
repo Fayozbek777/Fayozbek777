@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Fayozbek</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Clean+Code+%7C+Modern+UI%2FUX" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+JavaScript+Redux;Clean+Code+%7C+Modern+UI%2FUX" />
 </p>
 
 ---
