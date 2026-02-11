@@ -166,32 +166,6 @@ status:     Available for opportunities ✦
 
 ---
 
-## &nbsp;&nbsp;`$ git log --stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fayozbek&show_icons=true&theme=transparent&bg_color=0a0a0a&title_color=C9A96E&text_color=e8e8e8&icon_color=C9A96E&border_color=2a2a2a&border_radius=4&rank_icon=github&hide_border=false" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayozbek&layout=compact&theme=transparent&bg_color=0a0a0a&title_color=C9A96E&text_color=e8e8e8&border_color=2a2a2a&border_radius=4&hide_border=false&langs_count=6" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=fayozbek&theme=transparent&background=0a0a0a&stroke=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=e8e8e8&dates=888888&border=2a2a2a" />
-
-</div>
-
----
-
-## &nbsp;&nbsp;`$ activity --graph`
-
-<div align="center">
-
-[![Fayozbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fayozbek&theme=react-dark&bg_color=0a0a0a&color=C9A96E&line=C9A96E&point=ffffff&area=true&area_color=C9A96E&border_radius=4&hide_border=false)](https://github.com/fayozbek)
-
-</div>
-
----
-
 ## &nbsp;&nbsp;`$ contact --open`
 
 <br/>
