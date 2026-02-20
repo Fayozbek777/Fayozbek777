@@ -33,7 +33,6 @@ location:   Uzbekistan 🇺🇿
 
 focus:
   - React & Next.js Architecture
-  - React Native (Mobile)
   - Modern UI/UX Systems
   - Performance Optimization
 
