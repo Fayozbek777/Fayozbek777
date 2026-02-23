@@ -4,7 +4,8 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║           F A Y O Z B E K   B A X R O M O V                 ║
-║                  Frontend Developer                          ║
+║                  Frontend Developer
+            Student at MegaSchool | Ilmhub ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
