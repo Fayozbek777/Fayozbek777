@@ -1,13 +1,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║           FAYOZBEK BAXROMOV                                  ║
-║           Frontend Developer                                 ║
-║           Student at MegaSchool | Ilmhub                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=C9A96E&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=FAYOZBEK+BAXROMOV;Frontend+Developer;MegaSchool+%7C+Ilmhub)](https://git.io/typing-svg)
+
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Crafting+precision+interfaces+with+React+%26+Next.js;Performance-first+%7C+Design-obsessed+%7C+Clean+Code;Open+to+Collaboration+%E2%80%94+Let%E2%80%99s+build+something+remarkable)](https://git.io/typing-svg)
