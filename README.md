@@ -1,9 +1,7 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a0000,100:cc0000&amp;height=200&amp;section=header&amp;text=FAYOZBEK%20BAXROMOV&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&amp;descAlignY=58&amp;descColor=ff4444&amp;animation=fadeIn" 
-    width="100%"
-    alt="FAYOZBEK BAXROMOV - Frontend Developer"
-  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=FF4444&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=FAYOZBEK+BAXROMOV;Frontend+Developer+%7C+React+%26+Next.js)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
