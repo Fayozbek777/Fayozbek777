@@ -192,9 +192,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fayozbek777/Fayozbek777/blob/main/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fayozbek777/Fayozbek777/blob/main/snake-light.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/Fayozbek777/Fayozbek777/blob/main/snake-light.svg" width="800" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/main/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/main/snake-light.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/main/snake-light.svg" width="800" />
   </picture>
   <br/><br/>
   <small>🐍 This snake eats my contributions grid every day 🍃</small>
