@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:cc0000&height=200&section=header&text=FAYOZBEK%20BAXROMOV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=58&descColor=ff4444&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a0000,100:cc0000&amp;height=200&amp;section=header&amp;text=FAYOZBEK%20BAXROMOV&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&amp;descAlignY=58&amp;descColor=ff4444&amp;animation=fadeIn" 
     width="100%"
     alt="FAYOZBEK BAXROMOV - Frontend Developer"
   />
