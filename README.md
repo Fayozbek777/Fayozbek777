@@ -22,7 +22,7 @@ name:       Fayozbek Baxromov
 role:       Junior Frontend Developer
 education:  MegaSchool · Ilmhub
 location:   Uzbekistan 🇺🇿
-focus:      [ React, Next.js, Performance, Clean UI, Linux, CyberSec ]
+focus:      [ React, Next.js, Performance, Clean UI, Linux, WebSecurtyCheck  ]
 status:     ✦ Open to opportunities
 motto:      "Code is craft. Every pixel matters."
 ```
