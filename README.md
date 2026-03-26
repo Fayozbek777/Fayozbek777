@@ -106,7 +106,8 @@ motto:      "Code is craft. Every pixel matters."
 ![Zustand](https://img.shields.io/badge/Zustand-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Recoil](https://img.shields.io/badge/Recoil-1a1612?style=flat-square&logoColor=FAEBD7)
 ![JSON Server](https://img.shields.io/badge/JSON_Server-1a1612?style=flat-square&logoColor=FAEBD7)
-![JSON Server]([https://img.shields.io/badge/JSON_Server-1a1612?style=flat-square&logoColor=FAEBD7](https://img.shields.io/badge/Graphql-1a1612?style=flat-square&logoColor=FAEBD7))
+![Graphql](https://img.shields.io/badge/Graphql-1a1612?style=flat-square&logoColor=FAEBD7)
+  
 
 
 
