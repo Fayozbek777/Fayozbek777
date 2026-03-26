@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=31&duration=2000&pause=900&color=FAEBD7&center=true&vCenter=true&width=620&lines=Fayozbek+Baxromov;Frontend+Developer+%7C+React+%26+Next.js)](https://git.io/typing-svg)
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=31&duration=2000&pause=900&color=FAEBD7&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=110&lines=Fayozbek+Baxromov;Frontend+Developer+%7C+React+%26+Next.js)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=1000&color=FAEBD7&center=true&vCenter=true&width=700&lines=Создаю+точные+интерфейсы+на+React+%26+Next.js;Производительность+%7C+Дизайн+%7C+Чистый+код;MegaSchool+%7C+Ilmhub+%7C+Узбекистан+%F0%9F%87%BA%F0%9F%87%BF;Открыт+к+сотрудничеству)](https://git.io/typing-svg)
 
