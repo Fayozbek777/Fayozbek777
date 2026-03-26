@@ -1,10 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=800&color=FAEBD7&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=100&lines=FAYOZBEK+BAXROMOV;Frontend+Developer+%7C+React+%26+Next.js)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=31&duration=2000&pause=900&color=FAEBD7&center=true&vCenter=true&width=620&lines=Fayozbek+Baxromov;Frontend+Developer+%7C+React+%26+Next.js)](https://git.io/typing-svg)
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FAEBD7&center=true&vCenter=true&width=700&lines=Crafting+precision+interfaces+with+React+%26+Next.js;Performance-first+%7C+Design-obsessed+%7C+Clean+Code;MegaSchool+%7C+Ilmhub+%7C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Open+to+Freelance+%C2%B7+Full-time+%C2%B7+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=1000&color=FAEBD7&center=true&vCenter=true&width=700&lines=Создаю+точные+интерфейсы+на+React+%26+Next.js;Производительность+%7C+Дизайн+%7C+Чистый+код;MegaSchool+%7C+Ilmhub+%7C+Узбекистан+%F0%9F%87%BA%F0%9F%87%BF;Открыт+к+сотрудничеству)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +21,7 @@ name:       Fayozbek Baxromov
 role:       Junior Frontend Developer
 education:  MegaSchool · Ilmhub
 location:   Uzbekistan 🇺🇿
-focus:      [ React, Next.js, Performance, Clean UI, Linux, WebSecurtyCheck  ]
+focus:      [ React, Next.js, Performance, Clean UI, Linux, Web Security Analysis  ]
 status:     ✦ Open to opportunities
 motto:      "Code is craft. Every pixel matters."
 ```
