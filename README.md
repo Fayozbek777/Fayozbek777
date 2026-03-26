@@ -106,6 +106,9 @@ motto:      "Code is craft. Every pixel matters."
 ![Zustand](https://img.shields.io/badge/Zustand-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Recoil](https://img.shields.io/badge/Recoil-1a1612?style=flat-square&logoColor=FAEBD7)
 ![JSON Server](https://img.shields.io/badge/JSON_Server-1a1612?style=flat-square&logoColor=FAEBD7)
+![JSON Server]([https://img.shields.io/badge/JSON_Server-1a1612?style=flat-square&logoColor=FAEBD7](https://img.shields.io/badge/Graphql-1a1612?style=flat-square&logoColor=FAEBD7))
+
+
 
 ### ◈ Tools & Workflow
 
@@ -171,20 +174,6 @@ motto:      "Code is craft. Every pixel matters."
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fayozbek777&bg_color=1a1612&color=FAEBD7&line=8a7a6a&point=FAEBD7&area=true&hide_border=false)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/main/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/main/snake-light.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/main/snake-light.svg" width="800" />
-  </picture>
-</div>
-
----
 
 <div align="center">
 
