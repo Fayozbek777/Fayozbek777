@@ -64,13 +64,11 @@ motto:      "Code is craft. Every pixel matters."
 ![ES6+](https://img.shields.io/badge/ES6%2B-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Async/Await](https://img.shields.io/badge/Async_%2F_Await-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Promises](https://img.shields.io/badge/Promises-1a1612?style=flat-square&logoColor=FAEBD7)
-![Closures](https://img.shields.io/badge/Closures-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Event Loop](https://img.shields.io/badge/Event_Loop-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Fetch API](https://img.shields.io/badge/Fetch_API-1a1612?style=flat-square&logoColor=FAEBD7)
 ![REST API](https://img.shields.io/badge/REST_API-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Axios](https://img.shields.io/badge/Axios-1a1612?style=flat-square&logo=axios&logoColor=FAEBD7)
 ![Web Storage](https://img.shields.io/badge/Web_Storage-1a1612?style=flat-square&logoColor=FAEBD7)
-![Destructuring](https://img.shields.io/badge/Destructuring-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Modules ESM](https://img.shields.io/badge/Modules_ESM-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Higher Order Fn](https://img.shields.io/badge/Higher_Order_Fn-1a1612?style=flat-square&logoColor=FAEBD7)
 
@@ -79,9 +77,6 @@ motto:      "Code is craft. Every pixel matters."
 ![React](https://img.shields.io/badge/React-1a1612?style=flat-square&logo=react&logoColor=FAEBD7)
 ![JSX](https://img.shields.io/badge/JSX-1a1612?style=flat-square&logoColor=FAEBD7)
 ![React Hooks](https://img.shields.io/badge/React_Hooks-1a1612?style=flat-square&logoColor=FAEBD7)
-![Custom Hooks](https://img.shields.io/badge/Custom_Hooks-1a1612?style=flat-square&logoColor=FAEBD7)
-![useState](https://img.shields.io/badge/useState-1a1612?style=flat-square&logoColor=FAEBD7)
-![useEffect](https://img.shields.io/badge/useEffect-1a1612?style=flat-square&logoColor=FAEBD7)
 ![useRef](https://img.shields.io/badge/useRef-1a1612?style=flat-square&logoColor=FAEBD7)
 ![useMemo](https://img.shields.io/badge/useMemo-1a1612?style=flat-square&logoColor=FAEBD7)
 ![useCallback](https://img.shields.io/badge/useCallback-1a1612?style=flat-square&logoColor=FAEBD7)
@@ -92,9 +87,7 @@ motto:      "Code is craft. Every pixel matters."
 ![React Query](https://img.shields.io/badge/React_Query-1a1612?style=flat-square&logo=reactquery&logoColor=FAEBD7)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-1a1612?style=flat-square&logoColor=FAEBD7)
-![Code Splitting](https://img.shields.io/badge/Code_Splitting-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Error Boundaries](https://img.shields.io/badge/Error_Boundaries-1a1612?style=flat-square&logoColor=FAEBD7)
-![Portals](https://img.shields.io/badge/Portals-1a1612?style=flat-square&logoColor=FAEBD7)
 
 ### ◈ Redux & State Management
 
@@ -102,9 +95,7 @@ motto:      "Code is craft. Every pixel matters."
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-1a1612?style=flat-square&logo=redux&logoColor=FAEBD7)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-1a1612?style=flat-square&logo=redux&logoColor=FAEBD7)
 ![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-1a1612?style=flat-square&logoColor=FAEBD7)
-![Redux Saga](https://img.shields.io/badge/Redux_Saga-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Zustand](https://img.shields.io/badge/Zustand-1a1612?style=flat-square&logoColor=FAEBD7)
-![Recoil](https://img.shields.io/badge/Recoil-1a1612?style=flat-square&logoColor=FAEBD7)
 ![JSON Server](https://img.shields.io/badge/JSON_Server-1a1612?style=flat-square&logoColor=FAEBD7)
 ![Graphql](https://img.shields.io/badge/Graphql-1a1612?style=flat-square&logoColor=FAEBD7)
   
@@ -115,22 +106,17 @@ motto:      "Code is craft. Every pixel matters."
 
 ![Git](https://img.shields.io/badge/Git-1a1612?style=flat-square&logo=git&logoColor=FAEBD7)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1612?style=flat-square&logo=github&logoColor=FAEBD7)
-![GitLab](https://img.shields.io/badge/GitLab-1a1612?style=flat-square&logo=gitlab&logoColor=FAEBD7)
 ![Vite](https://img.shields.io/badge/Vite-1a1612?style=flat-square&logo=vite&logoColor=FAEBD7)
-![Webpack](https://img.shields.io/badge/Webpack-1a1612?style=flat-square&logo=webpack&logoColor=FAEBD7)
 ![npm](https://img.shields.io/badge/npm-1a1612?style=flat-square&logo=npm&logoColor=FAEBD7)
-![Yarn](https://img.shields.io/badge/Yarn-1a1612?style=flat-square&logo=yarn&logoColor=FAEBD7)
 ![Figma](https://img.shields.io/badge/Figma-1a1612?style=flat-square&logo=figma&logoColor=FAEBD7)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1612?style=flat-square&logo=visualstudiocode&logoColor=FAEBD7)
 ![Postman](https://img.shields.io/badge/Postman-1a1612?style=flat-square&logo=postman&logoColor=FAEBD7)
 ![ESLint](https://img.shields.io/badge/ESLint-1a1612?style=flat-square&logo=eslint&logoColor=FAEBD7)
 ![Prettier](https://img.shields.io/badge/Prettier-1a1612?style=flat-square&logo=prettier&logoColor=FAEBD7)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1612?style=flat-square&logo=vercel&logoColor=FAEBD7)
-![Netlify](https://img.shields.io/badge/Netlify-1a1612?style=flat-square&logo=netlify&logoColor=FAEBD7)
 
 ### ◈ Linux & Cybersecurity
 
-![Linux](https://img.shields.io/badge/Linux-1a1612?style=flat-square&logo=linux&logoColor=FAEBD7)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1612?style=flat-square&logo=kalilinux&logoColor=FAEBD7)
 ![Bash](https://img.shields.io/badge/Bash-1a1612?style=flat-square&logo=gnubash&logoColor=FAEBD7)
 ![Nmap](https://img.shields.io/badge/Nmap-1a1612?style=flat-square&logoColor=FAEBD7)
