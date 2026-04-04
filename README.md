@@ -20,7 +20,7 @@ name:       Fayozbek Baxromov
 role:       Junior Frontend Developer
 education:  MegaSchool · Ilmhub
 location:   Uzbekistan 🇺🇿
-focus:      [ React, Next.js, Performance, Clean UI, Linux, Web Pentesting  ]
+focus:      [ React, Next.js, Performance, Clean UI, Linux, Web Penetration Tester  ]
 status:     ✦ Open to opportunities
 motto:      "Code is craft. Every pixel matters."
 ```
@@ -115,7 +115,7 @@ motto:      "Code is craft. Every pixel matters."
 ![Prettier](https://img.shields.io/badge/Prettier-1a1612?style=flat-square&logo=prettier&logoColor=FAEBD7)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1612?style=flat-square&logo=vercel&logoColor=FAEBD7)
 
-### ◈ Linux & Pentesting
+### ◈ Linux & Web Penetration Tester
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1612?style=flat-square&logo=kalilinux&logoColor=FAEBD7)
 ![Bash](https://img.shields.io/badge/Bash-1a1612?style=flat-square&logo=gnubash&logoColor=FAEBD7)
