@@ -8,7 +8,7 @@
 
 <br>
 
-🌐 **Tashkent, Uzbekistan** · *Hybrid / Remote*
+🌐 **Tashkent, Uzbekistan** · *Hybrid* 
 
 <p align="center">
   <a href="mailto:fayozbekbaxromov9@gmail.com"><img src="https://img.shields.io/badge/Gmail-fayozbekbaxromov9@gmail.com-0f0f11?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -34,12 +34,14 @@
 
 ### 🌐 Frontend & Core
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-0f0f11?style=for-the-badge&logo=html&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS3-0f0f11?style=for-the-badge&logo=css&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-0f0f11?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React_18-0f0f11?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-0f0f11?style=for-the-badge&logo=redux&logoColor=764ABC" />
 </p>
 
-### 🎨 User Interface & Styles
+### 🎨 User Interface & Animations
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-0f0f11?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/Bootstrap-0f0f11?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
@@ -52,9 +54,9 @@
 
 ### ⚙️ Backend & API
 <p align="left">
+  <img src="https://img.shields.io/badge/Supabase-0f0f11?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/GraphQL-0f0f11?style=for-the-badge&logo=graphql&logoColor=E10098" />
   <img src="https://img.shields.io/badge/REST_API-0f0f11?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Supabase-0f0f11?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </p>
 
 ### 🛡️ Pentesting & Security
@@ -88,8 +90,8 @@
 ## 🌐 Языки
 
 * 🇺🇿 **Узбекский** — Родной
-* 🇷🇺 **Русский** — B1 *(Свободное общение)*
-* 🇬🇧 **Английский** — B1 *(Technical / Документация)*
+* 🇷🇺 **Русский** — B1
+* 🇬🇧 **Английский** — B2
 
 ---
 
