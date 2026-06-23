@@ -1,93 +1,95 @@
 <div align="center">
 
-# Fayozbek Baxromov
+# ⚡ Fayozbek Baxromov
 
-### React Developer & Pentester
+### **React Developer & Pentester**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=4A4A4A&center=true&vCenter=true&width=480&lines=React+%2F+JavaScript+%2F+Linux;Building+high-end+UI+%26+Smooth+Animations;Penetration+Testing+%26+Web+Security" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=9933FF&center=true&vCenter=true&width=500&lines=React+%2F+JavaScript+%2F+Linux;Building+high-end+UI+%26+Animations;Penetration+Testing+%26+Web+Security" alt="typing animation" />
 
 <br>
 
-📍 Ташкент, Узбекистан · Гибрид 
+🌐 **Tashkent, Uzbekistan** · *Hybrid / Remote*
 
-<p>
-  <a href="mailto:fayozbekbaxromov9@gmail.com"><img src="https://img.shields.io/badge/Gmail-fayozbekbaxromov9@gmail.com-1A1A1A?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/fyzz_02"><img src="https://img.shields.io/badge/Telegram-@fyzz__02-1A1A1A?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/998956716661"><img src="https://img.shields.io/badge/Phone-%2B998_95_671_66_61-1A1A1A?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:fayozbekbaxromov9@gmail.com"><img src="https://img.shields.io/badge/Gmail-fayozbekbaxromov9@gmail.com-0f0f11?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/fyzz_02"><img src="https://img.shields.io/badge/Telegram-@fyzz__02-0f0f11?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/998956716661"><img src="https://img.shields.io/badge/Phone-%2B998_95_671_66_61-0f0f11?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <br>
 
+### 👾 Contributions Activity
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_GITHUB_НИКНЕЙМ/ТВОЙ_GITHUB_НИКНЕЙМ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_GITHUB_НИКНЕЙМ/ТВОЙ_GITHUB_НИКНЕЙМ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ТВОЙ_GITHUB_НИКНЕЙМ/ТВОЙ_GITHUB_НИКНЕЙМ/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Fayozbek777/Fayozbek777/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
 ---
 
-## 🛠 Технический стек
+## 🛠️ Технический стек
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_18-1A1A1A?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-1A1A1A?style=flat-square&logo=redux&logoColor=white" />
+### 🌐 Frontend & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-0f0f11?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React_18-0f0f11?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0f0f11?style=for-the-badge&logo=redux&logoColor=764ABC" />
 </p>
 
-**User Interface**
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap_CSS-1A1A1A?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra_UI-1A1A1A?style=flat-square&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-1A1A1A?style=flat-square&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-1A1A1A?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-1A1A1A?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive-1A1A1A?style=flat-square&logo=sass&logoColor=white" />
+### 🎨 User Interface & Styles
+<p align="left">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f0f11?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Bootstrap-0f0f11?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Chakra_UI-0f0f11?style=for-the-badge&logo=chakraui&logoColor=319795" />
+  <img src="https://img.shields.io/badge/Material_UI-0f0f11?style=for-the-badge&logo=mui&logoColor=007FFF" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0f0f11?style=for-the-badge&logo=framer&logoColor=EA4AAA" />
+  <img src="https://img.shields.io/badge/SCSS-0f0f11?style=for-the-badge&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/Responsive-0f0f11?style=for-the-badge&logo=responsive&logoColor=white" />
 </p>
 
-**SUBD**
-<p>
-  <img src="https://img.shields.io/badge/GraphQL-1A1A1A?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-1A1A1A?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-1A1A1A?style=flat-square&logo=supabase&logoColor=white" />
+### ⚙️ Backend & API
+<p align="left">
+  <img src="https://img.shields.io/badge/GraphQL-0f0f11?style=for-the-badge&logo=graphql&logoColor=E10098" />
+  <img src="https://img.shields.io/badge/REST_API-0f0f11?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Supabase-0f0f11?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </p>
 
-**Pentesting**
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-1A1A1A?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ffuf-1A1A1A?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLmap-1A1A1A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bash-1A1A1A?style=flat-square&logo=gnubash&logoColor=white" />
+### 🛡️ Pentesting & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-0f0f11?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Nmap-0f0f11?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ffuf-0f0f11?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLmap-0f0f11?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-0f0f11?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
 </p>
 
 ---
 
 ## 🚀 Проекты
 
-### 🏍 My Mustang — Платформа аренды самокатов и велосипедов
-> Высоконагруженный сервис шеринга транспорта в Ташкенте с фокусом на кастомный UX и плавный интерфейс.
+### 🏍 My Mustang — Платформа аренды самокатов и велосипедов  (продан)
+> *Высоконагруженный сервис шеринга транспорта в Ташкенте с фокусом на кастомный UX и плавный интерфейс.*
 
-* **Стек:** React 18, React Router, Redux Toolkit, Tailwind CSS Telegram Bot API, JWT, Python (Flask), REST API.
+* 🛠 **Стек:** `React 18` · `React Router` · `Redux Toolkit` · `Tailwind CSS` · `Telegram Bot API` · `JWT` · `Python (Flask)` · `REST API`
 
-* **Интернационализация:** Разработана и внедрена полноценная мультиязычность интерфейса (поддержка 5 языков).
+* 🌍 **Интернационализация:** Разработана и внедрена полноценная мультиязычность интерфейса (поддержка 5 языков).
 
-* **Интеграция:** Настроена мгновенная синхронизация с Telegram API для автоматической обработки входящих заявок, бронирования и уведомлений.
+* 🤖 **Интеграция:** Настроена мгновенная синхронизация с Telegram API для автоматической обработки входящих заявок, бронирования и уведомлений.
 
-* **Админ-панель:** Разработана защищенная административная панель для полного управления контентом, тарифами и мониторинга текущей базы транспорта.
+* 📊 **Админ-панель:** Разработана защищенная административная панель для полного управления контентом, тарифами и мониторинга текущей базы транспорта.
 
-* **Адаптивность:** Сетка интерфейса полностью оптимизирована под мобильные устройства, планшеты и десктопы.
+* 📱 **Адаптивность:** Сетка интерфейса полностью оптимизирована под мобильные устройства, планшеты и десктопы.
 
 ---
 
 ## 🌐 Языки
 
-* **Узбекский** — Родной
-* **Русский** — B1 (Свободное общение)
-* **Английский** — B1  Technical 
+* 🇺🇿 **Узбекский** — Родной
+* 🇷🇺 **Русский** — B1 *(Свободное общение)*
+* 🇬🇧 **Английский** — B1 *(Technical / Документация)*
 
 ---
 
@@ -95,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fayozbek777&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=4A4A4A&icon_color=4A4A4A&title_color=1A1A1A" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fayozbek777&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=4A4A4A&icon_color=764ABC&title_color=1A1A1A" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayozbek777&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=4A4A4A&title_color=1A1A1A" height="165" />
 
 </div>
