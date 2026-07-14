@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/JavaScript-0f0f11?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React_18-0f0f11?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-0f0f11?style=for-the-badge&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/Tilda-0f0f11?style=for-the-badge&logo=googlechrome&logoColor=FFA500" />
 </p>
 
 ### 🎨 User Interface & Animations
@@ -72,7 +73,19 @@
 
 ## 🚀 Проекты
 
-### 🏍 My Mustang — Платформа аренды самокатов и велосипедов  (продан)
+### 🏥 Medicine Landing — Центр выкупа лекарств
+> *Коммерческий одностраничный сайт для сервиса по законному выкупу дорогостоящих неиспользованных препаратов у населения (включая онкологический сегмент).*
+
+* 🛠 **Стек и инструменты:** `HTML5` · `CSS3` · `JavaScript` · `Font Awesome` · `Git` · `Timeweb` · `Kwork` (Order: #63772755)
+
+* 💼 **Бизнес-цель:** Создание прозрачного UX-интерфейса, помогающего пользователям быстро и безопасно оценить стоимость оставшихся после лечения медикаментов и вернуть часть средств.
+
+* 🌐 **Деплой и хостинг:** Проект полностью настроен, привязан к коммерческому домену и развернут на хостинге Timeweb.
+
+---
+
+
+### 🏍 My Mustang — Платформа аренды самокатов и велосипедов
 > *Высоконагруженный сервис шеринга транспорта в Ташкенте с фокусом на кастомный UX и плавный интерфейс.*
 
 * 🛠 **Стек:** `React 18` · `React Router` · `Redux Toolkit` · `Tailwind CSS` · `Telegram Bot API` · `JWT` · `Python (Flask)` · `REST API`
@@ -94,12 +107,3 @@
 * 🇬🇧 **Английский** — B2
 
 ---
-
-## 📊 Статистика профиля
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fayozbek777&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=4A4A4A&icon_color=764ABC&title_color=1A1A1A" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayozbek777&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=4A4A4A&title_color=1A1A1A" height="165" />
-
-</div>
