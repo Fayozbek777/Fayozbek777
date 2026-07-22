@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="mailto:fayozbekbaxromov9@gmail.com"><img src="https://img.shields.io/badge/Gmail-fayozbekbaxromov9@gmail.com-0f0f11?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/fyzz_02"><img src="https://img.shields.io/badge/Telegram-@fyzz__02-0f0f11?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/998956716661"><img src="https://img.shields.io/badge/Phone-%2B998_95_671_66_61-0f0f11?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/fyzz_02"><img src="https://img.shields.io/badge/Telegram-@fyzz__02-0f0f11?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 <br>
