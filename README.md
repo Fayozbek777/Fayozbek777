@@ -11,7 +11,7 @@
 🌐 **Tashkent, Uzbekistan** · *Hybrid* 
 
 <p align="center">
-  <a href="mailto:fayozbekbaxromov9@gmail.com"><img src="https://img.shields.io/badge/Gmail-fayozbekbaxromov9@gmail.com-0f0f11?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:fayozbekbaxromov9@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0f11?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/fyzz_02"><img src="https://img.shields.io/badge/Telegram-@fyzz__02-0f0f11?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1Dy9rQPG8vqsm0cN_Jab8zCYJ48P2R0vN/view?usp=drivesdk">
