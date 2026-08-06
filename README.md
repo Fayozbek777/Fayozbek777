@@ -1,19 +1,18 @@
 <div align="center">
 
-# ⚡ Fayozbek Baxromov
+# Fayozbek Baxromov
 
-### **React Developer & Pentester**
+### **React Developer & Web Pentester**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=9933FF&center=true&vCenter=true&width=500&lines=React+%2F+JavaScript+%2F+Linux;Building+high-end+UI+%26+Animations;Penetration+Testing+%26+Web+Security" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=9933FF&center=true&vCenter=true&width=500&lines=React+%2F+JavaScript+%2F+Redux;Building+high-end+UI+%26+Animations;Penetration+Testing+%26+Web+Security" alt="typing animation" />
 
 <br>
 
-🌐 **Tashkent, Uzbekistan** · *Hybrid* 
+🌐 **Tashkent, Uzbekistan** · **Hybrid**
 
 <p align="center">
   <a href="mailto:fayozbekbaxromov9@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0f11?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/fyzz_02"><img src="https://img.shields.io/badge/Telegram-0f0f11?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="https://t.me/fyzz_02"><img src="https://img.shields.io/badge/Telegram-0f0f11?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1Dy9rQPG8vqsm0cN_Jab8zCYJ48P2R0vN/view?usp=drivesdk">
   <img src="https://img.shields.io/badge/Resume-0f0f11?style=for-the-badge&logoColor=white" alt="Resume" />
 </a>
@@ -33,19 +32,19 @@
 
 ---
 
-## 🛠️ Технический стек
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend & Core
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0f0f11?style=for-the-badge&logo=html&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/CSS3-0f0f11?style=for-the-badge&logo=css&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-0f0f11?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0f0f11?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-0f0f11?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React_18-0f0f11?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-0f0f11?style=for-the-badge&logo=redux&logoColor=764ABC" />
-<img src="https://img.shields.io/badge/Tilda-0f0f11?style=for-the-badge&logo=googlechrome&logoColor=FFA500" />
+  <img src="https://img.shields.io/badge/Tilda-0f0f11?style=for-the-badge&logo=tilda&logoColor=FFA500" />
 </p>
 
-### 🎨 User Interface & Animations
+### 🎨 UI & Animations
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-0f0f11?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/Bootstrap-0f0f11?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
@@ -74,39 +73,46 @@
 
 ---
 
-## 🚀 Проекты
+## 🚀 Projects
 
-### 🏥 Medicine Landing — Центр выкупа лекарств
-> *Коммерческий одностраничный сайт для сервиса по законному выкупу дорогостоящих неиспользованных препаратов у населения (включая онкологический сегмент).*
+### 🏥 Medicine Landing — Drug Buyback Center
+> *Commercial landing page for a service that legally buys back expensive unused medications from the public (including oncology segment).*
 
-* 🛠 **Стек и инструменты:** `HTML5` · `CSS3` · `JavaScript` · `Font Awesome` · `Git` · `Timeweb` · `Kwork` (Order: #63772755)
+* 🛠 **Stack & Tools:** `HTML5` · `CSS3` · `JavaScript` · `Font Awesome` · `Git` · `Timeweb` · `Kwork` (Order: #63772755)
 
-* 💼 **Бизнес-цель:** Создание прозрачного UX-интерфейса, помогающего пользователям быстро и безопасно оценить стоимость оставшихся после лечения медикаментов и вернуть часть средств.
+* 💼 **Business Goal:** Creating a transparent UX interface that helps users quickly and securely evaluate the value of leftover medications and recover part of their costs.
 
-* 🌐 **Деплой и хостинг:** Проект полностью настроен, привязан к коммерческому домену и развернут на хостинге Timeweb.
-
----
-
-
-### 🏍 My Mustang — Платформа аренды самокатов и велосипедов
-> *Высоконагруженный сервис шеринга транспорта в Ташкенте с фокусом на кастомный UX и плавный интерфейс.*
-
-* 🛠 **Стек:** `React 18` · `React Router` · `Redux Toolkit` · `Tailwind CSS` · `Telegram Bot API` · `JWT` · `Python (Flask)` · `REST API`
-
-* 🌍 **Интернационализация:** Разработана и внедрена полноценная мультиязычность интерфейса (поддержка 5 языков).
-
-* 🤖 **Интеграция:** Настроена мгновенная синхронизация с Telegram API для автоматической обработки входящих заявок, бронирования и уведомлений.
-
-* 📊 **Админ-панель:** Разработана защищенная административная панель для полного управления контентом, тарифами и мониторинга текущей базы транспорта.
-
-* 📱 **Адаптивность:** Сетка интерфейса полностью оптимизирована под мобильные устройства, планшеты и десктопы.
+* 🌐 **Deployment & Hosting:** Project fully configured, linked to a commercial domain, and deployed on Timeweb hosting.
 
 ---
 
-## 🌐 Языки
+### 🏍 My Mustang — Scooter & Bike Rental Platform
+> *High-load transport sharing service in Tashkent with a focus on custom UX and smooth interface.*
 
-* 🇺🇿 **Узбекский** — Родной
-* 🇷🇺 **Русский** — B1
-* 🇬🇧 **Английский** — B2
+* 🛠 **Stack:** `React 18` · `React Router` · `Redux Toolkit` · `Tailwind CSS` · `Telegram Bot API` · `JWT` · `Python (Flask)` · `REST API`
+
+* 🌍 **Internationalization:** Developed and implemented full multi-language interface (supporting 5 languages).
+
+* 🤖 **Integration:** Configured instant synchronization with Telegram API for automatic processing of incoming requests, bookings, and notifications.
+
+* 📊 **Admin Panel:** Developed a secure administrative panel for complete content management, tariff control, and monitoring of the current transport fleet.
+
+* 📱 **Responsiveness:** Interface grid fully optimized for mobile devices, tablets, and desktops.
 
 ---
+
+## 🌐 Languages
+
+* 🇺🇿 **Uzbek** — Native
+* 🇷🇺 **Russian** — B1
+* 🇬🇧 **English** — B2
+
+---
+
+<div align="center">
+
+### 💬 "Code is poetry. Security is discipline."
+
+<img src="https://komarev.com/ghpvc/?username=Fayozbek777&color=9933FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+</div>
