@@ -48,7 +48,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-0f0f11?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/Bootstrap-0f0f11?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-  <img src="https://img.shields.io/badge/Chakra_UI-0f0f11?style=for-the-badge&logo=chakraui&logoColor=319795" />
   <img src="https://img.shields.io/badge/Material_UI-0f0f11?style=for-the-badge&logo=mui&logoColor=007FFF" />
   <img src="https://img.shields.io/badge/Framer_Motion-0f0f11?style=for-the-badge&logo=framer&logoColor=EA4AAA" />
   <img src="https://img.shields.io/badge/SCSS-0f0f11?style=for-the-badge&logo=sass&logoColor=CC6699" />
@@ -58,7 +57,7 @@
 ### ⚙️ Backend & API
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-0f0f11?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/GraphQL-0f0f11?style=for-the-badge&logo=graphql&logoColor=E10098" />
+  <img src="https://img.shields.io/badge/Firebase-0f0f11?style=for-the-badge&logo=graphql&logoColor=E10098" />
   <img src="https://img.shields.io/badge/REST_API-0f0f11?style=for-the-badge&logo=fastapi&logoColor=009688" />
 </p>
 
@@ -68,7 +67,7 @@
   <img src="https://img.shields.io/badge/Nmap-0f0f11?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Ffuf-0f0f11?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLmap-0f0f11?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bash-0f0f11?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/XSS Injection-0f0f11?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
 </p>
 
 ---
