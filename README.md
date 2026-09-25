@@ -2,8 +2,6 @@
 
 # Fayozbek Baxromov
 
-### Junior Fullstack Developer
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=9933FF&center=true&vCenter=true&width=560&lines=React+%2F+TypeScript+%2F+Zustand;Python+%2F+Django+%2F+SQL;Web+Security+%26+Penetration+Testing" alt="typing animation" />
 
 <br>
